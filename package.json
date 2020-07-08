@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarahgoldman/cordova-print-pdf-plugin"
+    "url": "https://github.com/brramos/cordova-print-pdf-plugin"
   },
   "keywords": [
     "cordova",
@@ -20,6 +20,6 @@
     "cordova-android",
     "pdf"
   ],
-  "author": "Sarah Goldman",
+  "author": "Billy Ramos",
   "license": "MIT"
 }
